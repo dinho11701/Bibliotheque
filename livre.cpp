@@ -21,6 +21,7 @@ bool Livre::bonFormatAuteur() {
         }
 
     }
+    return valide;
 
 }
 

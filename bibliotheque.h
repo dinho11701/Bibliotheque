@@ -17,7 +17,7 @@ class Bibliotheque{
 
 
     public:
-        afficherLaBiblio();
+        void afficherLaBiblio();
 
 
     };
